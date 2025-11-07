@@ -46,11 +46,8 @@ export default function ChampionshipLanding() {
           transition={{ delay: 0.8 }}
           className="mt-10 flex flex-wrap gap-6 justify-center"
         >
-          <button className="bg-yellow-400 text-black px-8 py-4 rounded-full font-bold text-lg hover:bg-yellow-300 transition transform hover:scale-105 shadow-[0_0_20px_rgba(255,215,0,0.6)]">
-            Register Now
-          </button>
           <Link to="/brackets">
-            <button className="bg-white/10 backdrop-blur-md border border-white/30 px-8 py-4 rounded-full font-bold text-lg hover:bg-white/20 transition transform hover:scale-105 shadow-[0_0_20px_rgba(255,255,255,0.2)]">
+          <button className="bg-yellow-400 text-black px-8 py-4 rounded-full font-bold text-lg hover:bg-yellow-300 transition transform hover:scale-105 shadow-[0_0_20px_rgba(255,215,0,0.6)]">
               View Brackets
             </button>
           </Link>
