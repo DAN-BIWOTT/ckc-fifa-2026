@@ -33,8 +33,7 @@ export default function ChampionshipLanding() {
           transition={{ delay: 0.5, duration: 0.8 }}
           className="mt-6 text-xl md:text-2xl text-yellow-100 max-w-2xl"
         >
-          Cambridge Kids Club brings the magic of FIFA 26 World Cup to our young
-          stars! 🌍
+          Cambridge Kids Club brings the magic of FIFA 26 Cambridge Championship. Everyday at 3:45 - End
           <br />
           Dream big. Play fair. Celebrate like legends.
         </motion.p>
